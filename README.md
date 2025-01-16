@@ -20,7 +20,7 @@ Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de prog
 ```
 The MIT License (MIT)
 
-Copyright (c) 2024 Roque Buarque Junior
+Copyright (c) 2024 Julio Cezar Grassi Teixeira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
